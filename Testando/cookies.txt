@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-atxhost.xyz	TRUE	/	FALSE	1999999999	PHPSESSID	7dd5c1e974bfcd9af19ed9091a112366
-
